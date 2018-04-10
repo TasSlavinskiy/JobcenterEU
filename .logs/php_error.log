@@ -1,0 +1,1 @@
+[06-Mar-2018 00:27:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/u859264610/public_html/wp-content/plugins/qtranslate-x/admin/qtx_update_gettext_db.php on line 37
